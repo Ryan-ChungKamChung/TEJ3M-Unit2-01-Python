@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by Ryan Chung Kam Chung
-# Created in January 2021
+# Created in February 2021
 # Program blinks an LED
 
 
